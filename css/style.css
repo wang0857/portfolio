@@ -720,6 +720,8 @@ footer p a:hover {
 
 .web-design-background-img {
    background-image: url("../img/bg-img-5-428.jpg");
+   background-color: #44434490;
+   background-blend-mode: multiply;
    background-position: center left;
    background-repeat: no-repeat;
    background-size: cover;
@@ -740,9 +742,9 @@ footer p a:hover {
 .blur-b {
    background-color: #242a2490;
    -webkit-backdrop-filter: blur(5px);
-  backdrop-filter: blur(5px);
-  height: 32.5em;
-  padding-top: 5.5em;
+   backdrop-filter: blur(5px);
+   height: 32.5em;
+   padding-top: 5.5em;
 }
 
 
@@ -751,7 +753,7 @@ footer p a:hover {
 
 .uiux-background-img {
    background-image: url("../img/bg-img-6-428.jpg");
-   background-color: #fffafb80;
+   background-color: #fffafb90;
    background-blend-mode: overlay;
    background-position: center left;
    background-repeat: no-repeat;
@@ -804,6 +806,8 @@ footer p a:hover {
 
 .web-dev-background-img {
    background-image: url("../img/bg-img-7-428.jpg");
+   background-color: #44434499;
+   background-blend-mode: multiply;
    background-position: center left;
    background-repeat: no-repeat;
    background-size: cover;
@@ -824,9 +828,9 @@ footer p a:hover {
 .blur-b-light {
    background-color: #242a2405;
    -webkit-backdrop-filter: blur(5px);
-  backdrop-filter: blur(5px);
-  height: 32.5em;
-  padding-top: 5.5em;
+   backdrop-filter: blur(5px);
+   height: 32.5em;
+   padding-top: 5.5em;
 }
 
 
@@ -835,9 +839,9 @@ footer p a:hover {
 
 .cms-background-img {
    background-image: url("../img/bg-img-8-428.jpg");
-   background-color: #fffafb40;
+   background-color: #fffafb99;
    background-blend-mode: overlay;
-   background-position: center left;
+   background-position: top left;
    background-repeat: no-repeat;
    background-size: cover;
    height: 32.5em;
