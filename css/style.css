@@ -193,7 +193,7 @@ footer p a:hover {
 
 
 .header-background-img {
-   background-image: url("../img/bg-img-1-1400.jpg");
+   background-image: url("../img/bg-img-1-428.jpg");
    background-color: #fffafb90;
    background-repeat: no-repeat;
    background-size: cover;
@@ -1058,6 +1058,13 @@ footer p a:hover {
 
 @media screen and (min-width: 428px) {
 
+   /* ============= ***Homepage*** ============= */
+
+   /* ============= Main Banner ============= */
+   .header-background-img {
+      background-image: url("../img/bg-img-1-768.jpg");
+   }
+
    /* ============= ***About Page*** ============= */
    
    /* ============= Education Section ============= */
@@ -1260,6 +1267,15 @@ footer p a:hover {
    /* logo */
    .navbar-brand img {
       left: 40%;
+   }
+
+
+
+   /* ============= ***Homepage*** ============= */
+
+   /* ============= Main Banner ============= */
+   .header-background-img {
+      background-image: url("../img/bg-img-1-1400.jpg");
    }
 
 
