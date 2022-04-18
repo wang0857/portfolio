@@ -193,7 +193,7 @@ footer p a:hover {
 
 
 .header-background-img {
-   background-image: url("./img/bg-img-1-1400.jpg");
+   background-image: url("../img/bg-img-1-1400.jpg");
    background-color: #fffafb90;
    background-repeat: no-repeat;
    background-size: cover;
@@ -477,7 +477,7 @@ footer p a:hover {
 /* ============= Education Section ============= */
 
 .education-background-img {
-   background-image: url("./img/bg-img-2-428.jpg");
+   background-image: url("../img/bg-img-2-428.jpg");
    background-color: #242a2490;
    background-blend-mode: overlay;
    background-position: center left;
@@ -529,7 +529,7 @@ footer p a:hover {
 /* ============= Skills Section ============= */
 
 .skills-background-img {
-   background-image: url("./img/bg-img-3-428.jpg");
+   background-image: url("../img/bg-img-3-428.jpg");
    background-color: #bee0e030;
    background-blend-mode: overlay;
    background-position: center left;
@@ -581,7 +581,7 @@ footer p a:hover {
 /* ============= Related Experience Section ============= */
 
 .rel-exp-background-img {
-   background-image: url("./img/bg-img-4-428.jpg");
+   background-image: url("../img/bg-img-4-428.jpg");
    background-color: #242a2490;
    background-blend-mode: overlay;
    background-position: center left;
@@ -719,7 +719,7 @@ footer p a:hover {
 /* ============= Web Design Section ============= */
 
 .web-design-background-img {
-   background-image: url("./img/bg-img-5-428.jpg");
+   background-image: url("../img/bg-img-5-428.jpg");
    background-position: center left;
    background-repeat: no-repeat;
    background-size: cover;
@@ -750,7 +750,7 @@ footer p a:hover {
 /* ============= UIUX Design Section ============= */
 
 .uiux-background-img {
-   background-image: url("./img/bg-img-6-428.jpg");
+   background-image: url("../img/bg-img-6-428.jpg");
    background-color: #fffafb80;
    background-blend-mode: overlay;
    background-position: center left;
@@ -803,7 +803,7 @@ footer p a:hover {
 /* ============= Web Development Section ============= */
 
 .web-dev-background-img {
-   background-image: url("./img/bg-img-7-428.jpg");
+   background-image: url("../img/bg-img-7-428.jpg");
    background-position: center left;
    background-repeat: no-repeat;
    background-size: cover;
@@ -834,7 +834,7 @@ footer p a:hover {
 /* ============= Content Management Section ============= */
 
 .cms-background-img {
-   background-image: url("./img/bg-img-8-428.jpg");
+   background-image: url("../img/bg-img-8-428.jpg");
    background-color: #fffafb40;
    background-blend-mode: overlay;
    background-position: center left;
@@ -1063,13 +1063,13 @@ footer p a:hover {
    /* ============= Education Section ============= */
 
    .education-background-img {
-      background-image: url("./img/bg-img-2-768.jpg");
+      background-image: url("../img/bg-img-2-768.jpg");
    }
 
    /* ============= Skills Section ============= */
 
    .skills-background-img {
-      background-image: url("./img/bg-img-3-768.jpg");
+      background-image: url("../img/bg-img-3-768.jpg");
    }
 
    .skill-percentage {
@@ -1085,7 +1085,7 @@ footer p a:hover {
    /* ============= Related Experience Section ============= */
 
    .rel-exp-background-img {
-      background-image: url("./img/bg-img-4-768.jpg");
+      background-image: url("../img/bg-img-4-768.jpg");
    }
 
    /* adjust the timeline position */
@@ -1098,25 +1098,25 @@ footer p a:hover {
    /* ============= Web Design Section ============= */
 
    .web-design-background-img {
-      background-image: url("./img/bg-img-5-768.jpg");
+      background-image: url("../img/bg-img-5-768.jpg");
    }
 
    /* ============= UIUX Design Section ============= */
 
    .uiux-background-img {
-      background-image: url("./img/bg-img-6-768.jpg");
+      background-image: url("../img/bg-img-6-768.jpg");
    }
 
    /* ============= Web Development Section ============= */
 
    .web-dev-background-img {
-      background-image: url("./img/bg-img-7-768.jpg");
+      background-image: url("../img/bg-img-7-768.jpg");
    }
 
    /* ============= Content Management Section ============= */
 
    .cms-background-img {
-      background-image: url("./img/bg-img-8-768.jpg");
+      background-image: url("../img/bg-img-8-768.jpg");
    }
 
    /* ============= Photo Gallery Section ============= */
@@ -1277,7 +1277,7 @@ footer p a:hover {
    /* ============= Education Section ============= */
 
    .education-background-img {
-      background-image: url("./img/bg-img-2-1400.jpg");
+      background-image: url("../img/bg-img-2-1400.jpg");
    }
 
 
@@ -1285,7 +1285,7 @@ footer p a:hover {
    /* ============= Skills Section ============= */
    
    .skills-background-img {
-      background-image: url("./img/bg-img-3-1400.jpg");
+      background-image: url("../img/bg-img-3-1400.jpg");
    }
 
 
@@ -1293,7 +1293,7 @@ footer p a:hover {
    /* ============= Related Experience Section ============= */
    
    .rel-exp-background-img {
-      background-image: url("./img/bg-img-4-1400.jpg");
+      background-image: url("../img/bg-img-4-1400.jpg");
    }
 
 
@@ -1303,7 +1303,7 @@ footer p a:hover {
    /* ============= Web Design Section ============= */
 
    .web-design-background-img {
-      background-image: url("./img/bg-img-5-1400.jpg");
+      background-image: url("../img/bg-img-5-1400.jpg");
    }
 
 
@@ -1311,7 +1311,7 @@ footer p a:hover {
    /* ============= UIUX Design Section ============= */
 
    .uiux-background-img {
-      background-image: url("./img/bg-img-6-1400.jpg");
+      background-image: url("../img/bg-img-6-1400.jpg");
    }
 
 
@@ -1319,7 +1319,7 @@ footer p a:hover {
    /* ============= Web Development Section ============= */
 
    .web-dev-background-img {
-      background-image: url("./img/bg-img-7-1400.jpg");
+      background-image: url("../img/bg-img-7-1400.jpg");
    }
 
 
@@ -1327,7 +1327,7 @@ footer p a:hover {
    /* ============= Content Management Section ============= */
 
    .cms-background-img {
-      background-image: url("./img/bg-img-8-1400.jpg");
+      background-image: url("../img/bg-img-8-1400.jpg");
    }
 
 
@@ -1489,7 +1489,7 @@ footer p a:hover {
    /* ============= Main Banner ============= */
 
    .header-background-img {
-      background-image: url("./img/bg-img-1-2280.jpg");
+      background-image: url("../img/bg-img-1-2280.jpg");
    }
 
 
@@ -1572,7 +1572,7 @@ footer p a:hover {
    }
       
    .education-background-img {
-      background-image: url("./img/bg-img-2-2280.jpg");
+      background-image: url("../img/bg-img-2-2280.jpg");
    }
 
    .edu-section p {
@@ -1584,7 +1584,7 @@ footer p a:hover {
    /* ============= Skills Section ============= */
    
    .skills-background-img {
-      background-image: url("./img/bg-img-3-2280.jpg");
+      background-image: url("../img/bg-img-3-2280.jpg");
    }
 
    .skill-percentage {
@@ -1602,7 +1602,7 @@ footer p a:hover {
    /* ============= Related Experience Section ============= */
    
    .rel-exp-background-img {
-      background-image: url("./img/bg-img-4-2280.jpg");
+      background-image: url("../img/bg-img-4-2280.jpg");
    }
 
    .rel-exp-section p {
@@ -1631,7 +1631,7 @@ footer p a:hover {
    /* ============= Web Design Section ============= */
 
    .web-design-background-img {
-      background-image: url("./img/bg-img-5-2280.jpg");
+      background-image: url("../img/bg-img-5-2280.jpg");
    }
 
 
@@ -1639,7 +1639,7 @@ footer p a:hover {
    /* ============= UIUX Design Section ============= */
 
    .uiux-background-img {
-      background-image: url("./img/bg-img-6-2280.jpg");
+      background-image: url("../img/bg-img-6-2280.jpg");
    }
 
 
@@ -1647,7 +1647,7 @@ footer p a:hover {
    /* ============= Web Development Section ============= */
 
    .web-dev-background-img {
-      background-image: url("./img/bg-img-7-2280.jpg");
+      background-image: url("../img/bg-img-7-2280.jpg");
    }
 
 
@@ -1655,7 +1655,7 @@ footer p a:hover {
    /* ============= Content Management Section ============= */
 
    .cms-background-img {
-      background-image: url("./img/bg-img-8-2280.jpg");
+      background-image: url("../img/bg-img-8-2280.jpg");
    }
 
 
