@@ -9,7 +9,6 @@
 - [V] Create All HTML Pages
 - [V] Validate My Code
 - [V] Commit Final to GitHub, Check using GitHub Pages Link on multiple browsers
-- [V] Check Website Speed
 
 
 
