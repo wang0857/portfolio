@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <!-- my CSS -->
+    <link href="./css/style.css" rel="stylesheet">
+    <!-- jQuery -->
+    <script src="./js/jquery-3.6.0.min.js"></script>
+    <!-- my JS -->
+    <script src="./js/script.js"></script>
+    <!-- font awesome -->
+    <script src="https://kit.fontawesome.com/75f81a7c7a.js" crossorigin="anonymous"></script>
+    <title>About Ruo-Fang Wang</title>
+</head>
+<body>
+    <!-- ================ Navigation ================ -->
+    <header>
+        <nav class="navbar navbar-expand-lg py-3 navbar-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="./index.html">
+                    <img src="./img/logo.png" alt="logo">
+                </a>
+              
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon opacity-100"></span>
+                </button>
+            </div>
+              
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav d-flex justify-content-end">
+                    <li class="nav-item text-center">
+                        <a class="nav-link" href="./index.html">Home</a>
+                    </li>
+                    <li class="nav-item text-center">
+                        <a class="nav-link active" href="./about.html">About</a>
+                    </li>
+                    <li class="nav-item text-center">
+                        <a class="nav-link" href="./portfolio.html">Portfolio</a>
+                    </li>
+                    <li class="nav-item text-center">
+                        <a class="nav-link" href="./contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    
+    <!-- ================ Introduction Section ================ -->
+    <section class="intro-section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-xs-12 col-xl-5">
+                  <div class="my-photo-crop">
+                      <picture>
+                          <source srcset="./img/my-photo-1140.png, 
+                                          ./img/my-photo-1710.png 1.5x,
+                                          ./img/my-photo-2280.png 2x" 
+                                  media="(min-width: 760px)" />
+      
+                          <source srcset="./img/my-photo-525.png, 
+                                          ./img/my-photo-788.png 1.5x, 
+                                          ./img/my-photo-1050.png 2x, 
+                                          ./img/my-photo-1575.png 3x" 
+                                  media="(min-width: 350px)" />
+      
+                          <source srcset="./img/my-photo-350.png, 
+                                          ./img/my-photo-525.png 1.5x, 
+                                          ./img/my-photo-700.png 2x, 
+                                          ./img/my-photo-1050.png 3x" 
+                                  media="(max-width: 350px)" />
+      
+                          <img class="my-photo"
+                               src="./img/my-photo-1710.png"
+                               alt="my-photo">
+                      </picture>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-xl-7">
+                  <h2>About Ruo-Fang Wang</h2>
+                  <p>
+                      I originally graduated from the Department of Economics at National Taipei University in Taiwan and had marketing work experiences in foreign companies and design experience in a non-profit organization.
+                  </p>
+                  <p>
+                      Currently, I am learning web development and UI/UX in the Interactive Media Design program at Algonquin College.
+                  </p>
+                  <p>
+                      I'm good at learning new things and team-working and can multitask after getting familiar with my job.
+                  </p>
+                </div>
+              </div>
+        </div>
+    </section>
+
+    <!-- ================ Education Section ================ -->
+    <section class="edu-section">
+        <div class="education-background-img">
+            <h2>Education</h2>
+        </div>
+
+        <div class="container">
+            <div class="row justify-content-xl-center mt-3">
+                <div class="col-8 col-xl-6">
+                    <ol>
+                        <li>
+                            <a href="https://www.algonquincollege.com/mediaanddesign/program/interactive-media-design/">Diploma, Interactive Media Design, Algonquin College, Canada</a>
+                        </li>
+                    </ol>
+                </div>
+                <div class="col-4 col-xl-2">
+                    <p>2021 - Present</p>
+                </div>
+            </div>
+            <div class="row justify-content-xl-center">
+                <div class="col-8 col-xl-6">
+                    <ol>
+                        <li>
+                            <a href="http://www.econ.ntpu.edu.tw/econ/eng/">Bachelor of Arts, Economics, National Taipei University, Taiwan</a>
+                        </li>
+                    </ol>
+                </div>
+                <div class="col-4 col-xl-2">
+                    <p>2013 - 2017</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ================ Skills Section ================ -->
+    <section class="about-skill-section">
+        <div class="skills-background-img">
+            <h2>Skills</h2>
+        </div>
+
+        <div class="container">
+            <div class="row justify-content-md-center gap-5 mt-3 text-center">
+                <div class="col-xs-12 col-md-5 skill-chart">
+                    <img src="./img/skill-95-560.png" alt="skill-95">
+                    <p class="skill-percentage">95%</p>
+                    <p>HTML</p>
+                </div>
+                <div class="col-xs-12 col-md-5 skill-chart">
+                    <img src="./img/skill-100-560.png" alt="skill-100">
+                    <p class="skill-percentage-100">100%</p>
+                    <p>CSS</p>
+                </div>
+                <div class="col-xs-12 col-md-5 skill-chart">
+                    <img src="./img/skill-70-560.png" alt="skill-70">
+                    <p class="skill-percentage">70%</p>
+                    <p>JavaScript</p>
+                </div>
+                <div class="col-xs-12 col-md-5 skill-chart">
+                    <img src="./img/skill-70-560.png" alt="skill-70">
+                    <p class="skill-percentage">70%</p>
+                    <p>jQuery</p>
+                </div>
+                <div class="col-xs-12 col-md-5 skill-chart">
+                    <img src="./img/skill-100-560.png" alt="skill-100">
+                    <p class="skill-percentage-100">100%</p>
+                    <p>Adobe Photoshop</p>
+                </div>
+                <div class="col-xs-12 col-md-5 skill-chart">
+                    <img src="./img/skill-80-560.png" alt="skill-80">
+                    <p class="skill-percentage">80%</p>
+                    <p>Adobe Illustrator</p>
+                </div>
+                <div class="col-xs-12 col-md-5 skill-chart">
+                    <img src="./img/skill-95-560.png" alt="skill-95">
+                    <p class="skill-percentage">95%</p>
+                    <p>Adobe XD</p>
+                </div>
+                <div class="col-xs-12 col-md-5 skill-chart">
+                    <img src="./img/skill-70-560.png" alt="skill-70">
+                    <p class="skill-percentage">70%</p>
+                    <p>Adobe Analytics</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- ================ Related Experience Section ================ -->
+    <section class="rel-exp-section">
+        <div class="rel-exp-background-img">
+            <h2>Related Experience</h2>
+        </div>
+
+        <div class="container">
+            <div class="timeline-section">
+                <div class="row justify-content-xl-center my-3 timeline-pointer">
+                    <div class="col-8 col-xl-6">
+                        <h3>Web Development Assignment: Web Development of Sushi Kan Redesigned Website &#11015;</h3>
+                        <a href="https://wang0857.github.io/mtm6201-midterm/index.html"> Click here to see my work</a>
+                    </div>
+                    <div class="col-4 col-xl-2">
+                        <p>2022/3</p>
+                    </div>
+                </div>
+                <div class="row justify-content-xl-center my-3 timeline-pointer">
+                    <div class="col-8 col-xl-6">
+                        <h3>UX Redesign Assignment: Sushi Kan UX Redesign</h3>
+                        <ol>
+                            <li>Desktop &#10145;<a href="https://xd.adobe.com/view/c538e7fb-4095-46c0-b48a-af8c77100e0f-906b/"> Click here to see the prototype</a></li>
+                            <li>Tablet &#10145;<a href="https://xd.adobe.com/view/07911540-b402-4bcd-aba5-50fd15cd36fb-52c2/"> Click here to see the prototype</a></li>
+                            <li>Mobile &#10145;<a href="https://xd.adobe.com/view/ce4e33f4-f09b-45cb-9655-26b195e52a58-9b1d/"> Click here to see the prototype</a></li>
+                        </ol>
+                    </div>
+                    <div class="col-4 col-xl-2">
+                        <p>2022/2</p>
+                    </div>
+                </div>
+                
+                <!-- timeline -->
+                <span class="timeline"></span>
+            </div>            
+        </div>
+    </section>
+
+    <!-- ================ Action Section ================ -->
+    <section class="download-section">
+        <div class="container text-center">
+            <h2>Download My Full Resume</h2>
+            <button type="button" class="btn btn-primary btn-lg" onclick="window.open('./resume/ruo-fang-wang-resume.pdf')">
+                Download
+            </button>
+        </div>
+    </section>
+
+    <!-- ================ Footer ================ -->
+    <footer class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-6 col-xl-4">
+                    <ul class="nav flex-column mb-4">
+                        <li class="footer-item mb-2">
+                            <a href="./index.html" class="p-0">Home</a>
+                        </li>
+                        <li class="footer-item mb-2">
+                            <a href="./about.html" class="p-0">About</a>
+                        </li>
+                        <li class="footer-item mb-2">
+                            <a href="./portfolio.html" class="p-0">Portfolio</a>
+                        </li>
+                    </ul>
+                </div>
+            
+                <div class="col-xs-12 col-md-6 col-xl-4">
+                    <ul class="nav flex-column mb-4">
+                        <li class="footer-item mb-2">
+                            <a href="./contact.html" class="p-0">Contact</a>
+                        </li>
+                        <li class="footer-item mb-2">Email</li>
+                        <li class="footer-item mb-2 footer-email">
+                            <a href="mailto:wang0857@algonquinlive.com" class="p-0">wang0857@algonquinlive.com</a>
+                        </li>
+                    </ul>
+                </div>
+            
+                <div class="col-xs-12 col-md-12 col-xl-4">
+                    <ul class="nav d-flex flex-row gap-3 social-media-container">
+                        <li class="footer-item">
+                            <a href="https://www.pinterest.ca/roufangwang/" class="p-0">
+                                <i class="fa-brands fa-pinterest-square"></i>
+                            </a>
+                        </li>
+                        <li class="footer-item">
+                            <a href="https://codepen.io/wang0857/" class="p-0">
+                                <i class="fa-brands fa-codepen"></i>
+                            </a>
+                        </li>
+                        <li class="footer-item">
+                            <a href="https://www.linkedin.com/in/ruo-fang-wang-550269226/" class="p-0">
+                                <i class="fa-brands fa-linkedin"></i>
+                            </a>
+                        </li>
+                    </ul>
+
+                    <p>Images are retrieved from <a href="https://pixabay.com/">https://pixabay.com/</a></p>
+                    
+                    <p>2022 Ruo-Fang Wang (Karen Wang) &copy;.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
