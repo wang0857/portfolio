@@ -8,8 +8,8 @@
 - [V] Code Album Demo and auto-play function from Scrach
 - [V] Create All HTML Pages
 - [V] Validate My Code
-- [ ] Commit Final to GitHub, Check using GitHub Pages Link on multiple browsers
-- [ ] Check Website Speed
+- [V] Commit Final to GitHub, Check using GitHub Pages Link on multiple browsers
+- [V] Check Website Speed
 
 
 
