@@ -1607,14 +1607,18 @@ footer p a:hover {
       background-image: url("../img/bg-img-3-2280.jpg");
    }
 
+   .about-skill-section p {
+      font-size: 1.2em;
+   }
+
    .skill-percentage {
-      left: 45%;
-      top: 38%;
+      left: 40%;
+      top: 29%;
    }
 
    .skill-percentage-100 {
-      left: 44%;
-      top: 38%;
+      left: 38%;
+      top: 29%;
    }
 
 
@@ -1851,17 +1855,17 @@ footer p a:hover {
    }
 
    .about-skill-section p {
-      font-size: 1.8em;
+      font-size: 1.4em;
    }
 
    .skill-percentage {
-      left: 45%;
-      top: 38%;
+      left: 40%;
+      top: 30%;
    }
 
    .skill-percentage-100 {
-      left: 44%;
-      top: 38%;
+      left: 37%;
+      top: 30%;
    }
 
 
